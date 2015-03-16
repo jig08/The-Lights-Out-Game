@@ -1,0 +1,16 @@
+{
+	"category" : "LightsOut",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cells",
+		"mouseAction",
+		"container" ],
+	"name" : "LOGame",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }
